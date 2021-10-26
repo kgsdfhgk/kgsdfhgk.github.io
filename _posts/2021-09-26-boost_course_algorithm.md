@@ -1,7 +1,7 @@
 ---
 layout : archive
 title : Chapter 1 - 강의 소개 및 극댓값 찾기
-categories : Boost Course - Algorithm by python
+categories : Boost_Course_Algorithm_by_Python
 use_math : true
 ---
 
